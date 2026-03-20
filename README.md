@@ -37,25 +37,25 @@ Right now I'm focused on getting my first L1 role and growing from there.
 
 ## 📂 Projects
 
-| Project | Description | Tools Used |
-|--------|-------------|------------|
-| [Basic Web App Pentesting Lab](https://github.com/YOUR-USERNAME/webapp-pentest-lab) | HTTP interception, cookie/session attacks, access control testing | Burp Suite CE · OWASP Mutillidae |
-| [Home SOC Lab](https://github.com/YOUR-USERNAME/soc-lab) | Log collection, alerting, and SIEM monitoring on a local setup | Wazuh · ELK Stack |
+- `Monitor and Detection lab` 
+- `3-tier Enterprise Network Architecture`
+- `Enterprise Multi-site OSPF Network`
+- `Basic Web Application security Assessment`
 
 ---
 
 ## 📜 Education & Training
 
-- 🎓 Diploma in Electronics & Communication Engineering — KH Kabbur Institute of Polytechnic, Dharwad (2023)
+- 🎓 Diploma in Electronics & Communication Engineering — K H Kabbur Institute of Polytechnic, Dharwad (2025)
 - 🔐 Cybersecurity & Networking Course — GIT IT Academy, Hubli (2025)
-  - Covered: ethical hacking, network security, SIEM tools, web app testing
+  - Covered: ethical hacking, network security, SIEM tools, web app testing, CCNA (switching and routing protocols)
 
 ---
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kushgptlin)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:YOUR-kushgptl6@gmail.com)
 
 ---
 
