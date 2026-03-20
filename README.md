@@ -7,19 +7,23 @@
 
 ## 🛡️ About Me
 
-I'm a fresher with hands-on training in cybersecurity, networking, and IT support.  
-I enjoy building practical security tools, working on web app pentesting labs, and  
-learning how real-world threats are detected and responded to.
+I'm a fresher just getting started in cybersecurity and IT —
+still figuring things out, breaking stuff in labs, and learning from it.
 
-My long-term goal is red teaming and ethical hacking.  
-Right now I'm focused on getting my first L1 role and growing from there.
+I've been exploring tools like Burp Suite, Wireshark, and Wazuh hands-on,
+setting up small home labs, and trying to understand how attacks and defenses
+actually work in practice — not just theory.
 
+Currently hunting for my first L1 role where I can contribute, keep learning,
+and grow from the ground up.
+
+Still early. Still curious. Building every day.
 ---
 
 ## 🔧 Skills & Tools
 
 **Security:**  
-`Nmap` `Burp Suite CE` `Metasploit` `Wireshark` `Wazuh` `Splunk` `ELK Stack`
+`Nmap` `Burp Suite ` `Metasploit` `Wireshark` `Wazuh` `Splunk` `ELK Stack`
 
 **Platforms & Labs:**  
 `Kali Linux` `OWASP Mutillidae` `DVWA`
