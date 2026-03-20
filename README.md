@@ -39,8 +39,7 @@ Right now I'm focused on getting my first L1 role and growing from there.
 
 | Project | Description | Tools Used |
 |--------|-------------|------------|
-| [VT Auto Scanner](https://github.com/YOUR-USERNAME/vt-scanner) | File monitor that hashes files, queries VirusTotal API, and quarantines threats | Python · VirusTotal API · SHA-256 |
-| [Web App Pentesting Lab](https://github.com/YOUR-USERNAME/webapp-pentest-lab) | HTTP interception, cookie/session attacks, access control testing | Burp Suite CE · OWASP Mutillidae |
+| [Basic Web App Pentesting Lab](https://github.com/YOUR-USERNAME/webapp-pentest-lab) | HTTP interception, cookie/session attacks, access control testing | Burp Suite CE · OWASP Mutillidae |
 | [Home SOC Lab](https://github.com/YOUR-USERNAME/soc-lab) | Log collection, alerting, and SIEM monitoring on a local setup | Wazuh · ELK Stack |
 
 ---
